@@ -1,0 +1,72 @@
+commit 1545b40e137d6f1a2f94eea108d16eac2806364a
+Author: shark <rolando.pedro.gabriel@gmail.com>
+Date:   Sat Jan 13 07:41:06 2018 -0600
+
+    Haciendo commit de una funcion buscarMayor en la rama JUnit
+
+commit b273fb986288baf877ce19d338a71d713ae9d21e
+Merge: 0a66a94 f583f64
+Author: shark <rolando.pedro.gabriel@gmail.com>
+Date:   Sat Jan 13 01:18:44 2018 -0600
+
+    Ulitmos commits
+
+commit f583f64004862d6a2e39ebecfc14bb885f1ca084
+Author: shark <rolando.pedro.gabriel@gmail.com>
+Date:   Sat Jan 13 01:11:46 2018 -0600
+
+    Agregamos un comentario con mayusculas
+
+commit 2f77b0d353b9de6362ed76747903efcd24cb199a
+Author: shark <rolando.pedro.gabriel@gmail.com>
+Date:   Sat Jan 13 01:08:59 2018 -0600
+
+    Agregamos otro comentario al programa principal
+
+commit a066acfe0e1f2d7d30b5a6f4933381ede7a59690
+Author: shark <rolando.pedro.gabriel@gmail.com>
+Date:   Sat Jan 13 01:03:47 2018 -0600
+
+    Agregamos un comentario en la funcion principal
+
+commit 529634aa127053c5ba45b277350e9bc100c1cc23
+Author: shark <rolando.pedro.gabriel@gmail.com>
+Date:   Sat Jan 13 00:54:29 2018 -0600
+
+    Se ha agregado el archivo commit.txt
+
+commit fed0790a2beb584368c0c9bff8bc898d0ab0d360
+Author: shark <rolando.pedro.gabriel@gmail.com>
+Date:   Sat Jan 13 00:48:56 2018 -0600
+
+    comentario nuevo
+
+commit 5ce62af81499f2564933a4b2e829b7bf98e20abc
+Author: shark <rolando.pedro.gabriel@gmail.com>
+Date:   Sat Jan 13 00:47:36 2018 -0600
+
+    Comentario al programa principal
+
+commit cd4d607c8e629eb63879b972f29104e457c05aef
+Author: shark <rolando.pedro.gabriel@gmail.com>
+Date:   Sat Jan 13 00:38:12 2018 -0600
+
+    Comentario de la funcion main
+
+commit 0a66a946a3f8da0db8304f8d2538c5d0107fa2f0
+Author: shark <rolando.pedro.gabriel@gmail.com>
+Date:   Sat Jan 13 00:09:55 2018 -0600
+
+    Agregamos un comentario de estructura
+
+commit 3f90f1dae482d2de3dc006aa464089d608e7b7a2
+Author: shark <rolando.pedro.gabriel@gmail.com>
+Date:   Sat Jan 13 00:05:54 2018 -0600
+
+    Agregamos un comentario
+
+commit 7e4520b6452989d2d7f24c3c804a6c1c2b1a0551
+Author: shark <rolando.pedro.gabriel@gmail.com>
+Date:   Sat Jan 13 00:03:25 2018 -0600
+
+    mi primer commit

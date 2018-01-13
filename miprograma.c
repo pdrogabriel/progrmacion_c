@@ -1,4 +1,8 @@
+
+/* Mi primer programa en el lenguaje de programacion C. */
 #include <stdio.h>
+
+int buscarMayor(int array[]);
 
 struct animales{
 	char nombre[50];
@@ -9,6 +13,13 @@ struct animales{
 /*Comentario de la funcion principal*/
 int main()
 {
+	/*Codificacion en la funcion principal*/
+
+	int array[] = {3,1,4,2};
+	int mayor = buscarMayor(array);
+
+	printf("\nEl numero mayor es: %i", mayor);
+
 	printf("\nIntroduce el nombre: ");
 	scanf("%s", animal1.nombre);
 
@@ -38,3 +49,18 @@ int main()
 
 	return 0;
 }
+
+int buscarMayor(int array[])
+{
+	int mayor = array[0];
+	for(int i=1; i < 4; i++)
+	{
+		if(mayor < array[i])
+		{
+			mayor = array[i];
+		}
+	}
+	return mayor;
+}
+
+/*Fin de todo el programa*/
