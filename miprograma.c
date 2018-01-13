@@ -6,6 +6,7 @@ struct animales{
 	char sexo[10];
 }animal1, animal2;
 
+/*Comentario de la funcion principal*/
 int main()
 {
 	printf("\nIntroduce el nombre: ");
